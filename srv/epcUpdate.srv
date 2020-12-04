@@ -1,0 +1,8 @@
+
+string epc
+string NewEPC
+---
+int64 epcUpdate
+bool status
+
+ 

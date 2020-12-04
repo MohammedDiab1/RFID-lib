@@ -1,0 +1,9 @@
+
+int64 bank
+int64 address
+int64 count
+string epc
+---
+string memInfo
+bool status
+

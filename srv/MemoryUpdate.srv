@@ -1,0 +1,8 @@
+int64 bank
+int64 address
+string Data
+string epc
+---
+int64 memUpdate
+bool status
+ 

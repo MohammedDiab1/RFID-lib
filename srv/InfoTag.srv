@@ -1,0 +1,12 @@
+
+string epc
+---
+int64 rssi
+int64 Antenna
+int64 Frequency
+int64 Phase
+int64 Protocol
+bool status
+
+ 
+ 
